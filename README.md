@@ -1,2 +1,2 @@
-# obfuscator-public
-Obfuscator 0.1 public repository
+# Public Obfuscator Testing
+Obfuscator 0.1 public repository, where I test stuff ig
